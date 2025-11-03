@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\TestProject1\\TestProject1.csproj": {}
+    "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj": {
+    "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj",
+        "projectUniqueName": "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj",
         "projectName": "GiftOfTheGiversProject",
-        "projectPath": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj",
-        "packagesPath": "C:\\Users\\Chick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\obj\\",
+        "projectPath": "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj",
+        "packagesPath": "C:\\Users\\RC_Student_Lab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Chick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RC_Student_Lab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\WebsiteClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\WebsiteClassLibrary.csproj"
+              "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\WebsiteClassLibrary\\WebsiteClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\WebsiteClassLibrary\\WebsiteClassLibrary.csproj"
               }
             }
           }
@@ -48,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -98,24 +99,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\TestProject1\\TestProject1.csproj": {
+    "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\TestProject1\\TestProject1.csproj",
+        "projectUniqueName": "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\TestProject1\\TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\TestProject1\\TestProject1.csproj",
-        "packagesPath": "C:\\Users\\Chick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\TestProject1\\obj\\",
+        "projectPath": "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\RC_Student_Lab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Chick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RC_Student_Lab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -124,14 +125,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj": {
-                "projectPath": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj"
+              "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj": {
+                "projectPath": "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj"
               }
             }
           }
@@ -146,7 +148,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -181,24 +183,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\WebsiteClassLibrary.csproj": {
+    "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\WebsiteClassLibrary\\WebsiteClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\WebsiteClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\WebsiteClassLibrary\\WebsiteClassLibrary.csproj",
         "projectName": "WebsiteClassLibrary",
-        "projectPath": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\WebsiteClassLibrary.csproj",
-        "packagesPath": "C:\\Users\\Chick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\obj\\",
+        "projectPath": "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\WebsiteClassLibrary\\WebsiteClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\RC_Student_Lab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RC_Student_Lab\\OneDrive - ADvTECH Ltd\\Documents\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\WebsiteClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Chick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RC_Student_Lab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -207,6 +209,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -225,7 +228,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -246,7 +249,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

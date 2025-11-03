@@ -9,3 +9,15 @@ C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug
 C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug\net8.0\refint\WebsiteClassLibrary.dll
 C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug\net8.0\WebsiteClassLibrary.pdb
 C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug\net8.0\ref\WebsiteClassLibrary.dll
+C:\Users\RC_Student_Lab\OneDrive - ADvTECH Ltd\Documents\GiftOfTheGiversProject\GiftOfTheGiversProject\WebsiteClassLibrary\bin\Debug\net8.0\WebsiteClassLibrary.deps.json
+C:\Users\RC_Student_Lab\OneDrive - ADvTECH Ltd\Documents\GiftOfTheGiversProject\GiftOfTheGiversProject\WebsiteClassLibrary\bin\Debug\net8.0\WebsiteClassLibrary.dll
+C:\Users\RC_Student_Lab\OneDrive - ADvTECH Ltd\Documents\GiftOfTheGiversProject\GiftOfTheGiversProject\WebsiteClassLibrary\bin\Debug\net8.0\WebsiteClassLibrary.pdb
+C:\Users\RC_Student_Lab\OneDrive - ADvTECH Ltd\Documents\GiftOfTheGiversProject\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug\net8.0\WebsiteClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_Lab\OneDrive - ADvTECH Ltd\Documents\GiftOfTheGiversProject\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug\net8.0\WebsiteClassLibrary.AssemblyInfoInputs.cache
+C:\Users\RC_Student_Lab\OneDrive - ADvTECH Ltd\Documents\GiftOfTheGiversProject\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug\net8.0\WebsiteClassLibrary.AssemblyInfo.cs
+C:\Users\RC_Student_Lab\OneDrive - ADvTECH Ltd\Documents\GiftOfTheGiversProject\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug\net8.0\WebsiteClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_Lab\OneDrive - ADvTECH Ltd\Documents\GiftOfTheGiversProject\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug\net8.0\WebsiteClassLibrary.sourcelink.json
+C:\Users\RC_Student_Lab\OneDrive - ADvTECH Ltd\Documents\GiftOfTheGiversProject\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug\net8.0\WebsiteClassLibrary.dll
+C:\Users\RC_Student_Lab\OneDrive - ADvTECH Ltd\Documents\GiftOfTheGiversProject\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug\net8.0\refint\WebsiteClassLibrary.dll
+C:\Users\RC_Student_Lab\OneDrive - ADvTECH Ltd\Documents\GiftOfTheGiversProject\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug\net8.0\WebsiteClassLibrary.pdb
+C:\Users\RC_Student_Lab\OneDrive - ADvTECH Ltd\Documents\GiftOfTheGiversProject\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Debug\net8.0\ref\WebsiteClassLibrary.dll

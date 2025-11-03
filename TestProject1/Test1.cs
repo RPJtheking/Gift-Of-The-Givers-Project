@@ -48,7 +48,7 @@ namespace TestProject1
         public async Task Edit_InvalidId_ReturnsNotFound()
         {
             // Act
-            var result = await _controller.Edit(999);
+            var result = await _controller.Edit(111);
 
             // Assert
             Assert.IsInstanceOfType(result, typeof(NotFoundResult),
