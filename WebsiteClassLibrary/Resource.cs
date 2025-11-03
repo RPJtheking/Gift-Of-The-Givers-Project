@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WebsiteClassLibrary
+{
+    public class Resource
+    {
+        [Key]
+        public int Resource_ID { get; set; }
+
+        [ForeignKey("ReliefProject")]
+        public int Project_ID { get; set; }
+
+        [MaxLength(100)]
+        public string ResourceType { get; set; }
+
+        public int Quantity { get; set; }
+
+        [MaxLength(50)]
+        public string Status { get; set; }
+
+        // Navigation
+        public ReliefProject ReliefProject { get; set; }
+    }
+}

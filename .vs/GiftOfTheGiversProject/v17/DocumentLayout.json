@@ -1,0 +1,676 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C9199-6D45-47A5-9F93-0569DA8B0BE4}|TestProject1\\TestProject1.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C9199-6D45-47A5-9F93-0569DA8B0BE4}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C9199-6D45-47A5-9F93-0569DA8B0BE4}|TestProject1\\TestProject1.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\testproject1\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C9199-6D45-47A5-9F93-0569DA8B0BE4}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\data\\migrations\\20251103080538_initiallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\data\\migrations\\20251103080538_initiallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\views\\volunteers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\views\\volunteers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\views\\reports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\views\\reports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\views\\reliefprojects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\views\\reliefprojects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\views\\donations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\views\\donations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\views\\donations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\views\\donations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\controllers\\reliefprojectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\controllers\\reliefprojectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\data\\websitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\data\\websitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\models\\reliefproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\models\\reliefproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2C9199-6D45-47A5-9F93-0569DA8B0BE4}|TestProject1\\TestProject1.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2C9199-6D45-47A5-9F93-0569DA8B0BE4}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\views\\donations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\views\\donations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\views\\donations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\views\\donations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\views\\donations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\views\\donations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\migrations\\20251102165558_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\migrations\\20251102165558_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67FA60B-BE80-4799-BA39-B39E2C9FD3A8}|WebsiteClassLibrary\\WebsiteClassLibrary.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\websiteclasslibrary\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67FA60B-BE80-4799-BA39-B39E2C9FD3A8}|WebsiteClassLibrary\\WebsiteClassLibrary.csproj|solutionrelative:websiteclasslibrary\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67FA60B-BE80-4799-BA39-B39E2C9FD3A8}|WebsiteClassLibrary\\WebsiteClassLibrary.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\websiteclasslibrary\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67FA60B-BE80-4799-BA39-B39E2C9FD3A8}|WebsiteClassLibrary\\WebsiteClassLibrary.csproj|solutionrelative:websiteclasslibrary\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67FA60B-BE80-4799-BA39-B39E2C9FD3A8}|WebsiteClassLibrary\\WebsiteClassLibrary.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\websiteclasslibrary\\reliefproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67FA60B-BE80-4799-BA39-B39E2C9FD3A8}|WebsiteClassLibrary\\WebsiteClassLibrary.csproj|solutionrelative:websiteclasslibrary\\reliefproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67FA60B-BE80-4799-BA39-B39E2C9FD3A8}|WebsiteClassLibrary\\WebsiteClassLibrary.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\websiteclasslibrary\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67FA60B-BE80-4799-BA39-B39E2C9FD3A8}|WebsiteClassLibrary\\WebsiteClassLibrary.csproj|solutionrelative:websiteclasslibrary\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67FA60B-BE80-4799-BA39-B39E2C9FD3A8}|WebsiteClassLibrary\\WebsiteClassLibrary.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\websiteclasslibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67FA60B-BE80-4799-BA39-B39E2C9FD3A8}|WebsiteClassLibrary\\WebsiteClassLibrary.csproj|solutionrelative:websiteclasslibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67FA60B-BE80-4799-BA39-B39E2C9FD3A8}|WebsiteClassLibrary\\WebsiteClassLibrary.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\websiteclasslibrary\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67FA60B-BE80-4799-BA39-B39E2C9FD3A8}|WebsiteClassLibrary\\WebsiteClassLibrary.csproj|solutionrelative:websiteclasslibrary\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\models\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\models\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\data\\migrations\\20251102165847_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\data\\migrations\\20251102165847_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\migrations\\20251102181947_finals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\migrations\\20251102181947_finals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\migrations\\20251103080016_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\migrations\\20251103080016_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|c:\\users\\chick\\source\\repos\\giftofthegiversproject\\giftofthegiversproject\\migrations\\20251103080441_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75B6E31-1190-4627-B307-291982B7F6AF}|GiftOfTheGiversProject\\GiftOfTheGiversProject.csproj|solutionrelative:giftofthegiversproject\\migrations\\20251103080441_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test2.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\TestProject1\\Test2.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test2.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\TestProject1\\Test2.cs",
+              "RelativeToolTip": "TestProject1\\Test2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:31:02.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Volunteers\\Create.cshtml",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Views\\Volunteers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Volunteers\\Create.cshtml",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Views\\Volunteers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T18:16:57.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebsiteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Data\\WebsiteDbContext.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Data\\WebsiteDbContext.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Data\\WebsiteDbContext.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Data\\WebsiteDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:20:23.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T16:53:30.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\TestProject1\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test1.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\TestProject1\\Test1.cs",
+              "RelativeToolTip": "TestProject1\\Test1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:33:21.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReliefProject.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Models\\ReliefProject.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Models\\ReliefProject.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Models\\ReliefProject.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Models\\ReliefProject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:13:01.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Program.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Program.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:31:23.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Controllers\\DonationsController.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Controllers\\DonationsController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Controllers\\DonationsController.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Controllers\\DonationsController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:50:52.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\appsettings.json",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\appsettings.json",
+              "RelativeToolTip": "GiftOfTheGiversProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T16:24:01.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Reports\\Create.cshtml",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Views\\Reports\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Reports\\Create.cshtml",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Views\\Reports\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T18:16:52.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20251103080016_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Migrations\\20251103080016_initial.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Migrations\\20251103080016_initial.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Migrations\\20251103080016_initial.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Migrations\\20251103080016_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:00:17.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251103080538_initialLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Data\\Migrations\\20251103080538_initialLogin.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Data\\Migrations\\20251103080538_initialLogin.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Data\\Migrations\\20251103080538_initialLogin.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Data\\Migrations\\20251103080538_initialLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:05:39.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20251103080441_inital.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Migrations\\20251103080441_inital.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Migrations\\20251103080441_inital.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Migrations\\20251103080441_inital.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Migrations\\20251103080441_inital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:04:41.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T07:30:24.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\ReliefProjects\\Create.cshtml",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Views\\ReliefProjects\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\ReliefProjects\\Create.cshtml",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Views\\ReliefProjects\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T18:16:48.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Donations\\Create.cshtml",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Views\\Donations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Donations\\Create.cshtml",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Views\\Donations\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T17:49:33.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Donations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Views\\Donations\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Donations\\Edit.cshtml",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Views\\Donations\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T17:49:46.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReliefProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Controllers\\ReliefProjectsController.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Controllers\\ReliefProjectsController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Controllers\\ReliefProjectsController.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Controllers\\ReliefProjectsController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAHcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:51:34.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:34:45.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\TestProject1\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TestProject1\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\TestProject1\\MSTestSettings.cs",
+              "RelativeToolTip": "TestProject1\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:33:07.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20251102181947_finals.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Migrations\\20251102181947_finals.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Migrations\\20251102181947_finals.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Migrations\\20251102181947_finals.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Migrations\\20251102181947_finals.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:19:47.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Donations\\Index.cshtml",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Views\\Donations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Donations\\Index.cshtml",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Views\\Donations\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T18:15:19.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VolunteersController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Controllers\\VolunteersController.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Controllers\\VolunteersController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Controllers\\VolunteersController.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Controllers\\VolunteersController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAH8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:53:02.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:52:19.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Donations\\Details.cshtml",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Views\\Donations\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Donations\\Details.cshtml",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Views\\Donations\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T18:15:07.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Donations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Views\\Donations\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Views\\Donations\\Delete.cshtml",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Views\\Donations\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T18:14:58.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251102165847_initialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Data\\Migrations\\20251102165847_initialMigration.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Data\\Migrations\\20251102165847_initialMigration.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Data\\Migrations\\20251102165847_initialMigration.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Data\\Migrations\\20251102165847_initialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:58:48.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20251102165558_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Migrations\\20251102165558_initialCreate.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Migrations\\20251102165558_initialCreate.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Migrations\\20251102165558_initialCreate.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Migrations\\20251102165558_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:55:58.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T17:56:21.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\Resource.cs",
+              "RelativeDocumentMoniker": "WebsiteClassLibrary\\Resource.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\Resource.cs",
+              "RelativeToolTip": "WebsiteClassLibrary\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:43:12.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\Report.cs",
+              "RelativeDocumentMoniker": "WebsiteClassLibrary\\Report.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\Report.cs",
+              "RelativeToolTip": "WebsiteClassLibrary\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:42:58.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Models\\Report.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:13:16.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReliefProject.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\ReliefProject.cs",
+              "RelativeDocumentMoniker": "WebsiteClassLibrary\\ReliefProject.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\ReliefProject.cs",
+              "RelativeToolTip": "WebsiteClassLibrary\\ReliefProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:42:44.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\Donation.cs",
+              "RelativeDocumentMoniker": "WebsiteClassLibrary\\Donation.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\Donation.cs",
+              "RelativeToolTip": "WebsiteClassLibrary\\Donation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:42:28.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Models\\Donation.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Models\\Donation.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Models\\Donation.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Models\\Donation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:12:30.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Models\\Resource.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Models\\Resource.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Models\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:13:27.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\User.cs",
+              "RelativeDocumentMoniker": "WebsiteClassLibrary\\User.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\User.cs",
+              "RelativeToolTip": "WebsiteClassLibrary\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:43:19.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\Volunteer.cs",
+              "RelativeDocumentMoniker": "WebsiteClassLibrary\\Volunteer.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\WebsiteClassLibrary\\Volunteer.cs",
+              "RelativeToolTip": "WebsiteClassLibrary\\Volunteer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:43:30.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Models\\User.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:13:42.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Models\\Volunteer.cs",
+              "RelativeDocumentMoniker": "GiftOfTheGiversProject\\Models\\Volunteer.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\GiftOfTheGiversProject\\GiftOfTheGiversProject\\Models\\Volunteer.cs",
+              "RelativeToolTip": "GiftOfTheGiversProject\\Models\\Volunteer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:13:57.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

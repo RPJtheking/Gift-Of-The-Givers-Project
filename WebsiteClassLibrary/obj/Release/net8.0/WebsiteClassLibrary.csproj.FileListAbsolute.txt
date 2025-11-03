@@ -1,0 +1,11 @@
+C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\bin\Release\net8.0\WebsiteClassLibrary.deps.json
+C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\bin\Release\net8.0\WebsiteClassLibrary.dll
+C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\bin\Release\net8.0\WebsiteClassLibrary.pdb
+C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Release\net8.0\WebsiteClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Release\net8.0\WebsiteClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Release\net8.0\WebsiteClassLibrary.AssemblyInfo.cs
+C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Release\net8.0\WebsiteClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Release\net8.0\WebsiteClassLibrary.dll
+C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Release\net8.0\refint\WebsiteClassLibrary.dll
+C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Release\net8.0\WebsiteClassLibrary.pdb
+C:\Users\Chick\Source\Repos\GiftOfTheGiversProject\WebsiteClassLibrary\obj\Release\net8.0\ref\WebsiteClassLibrary.dll
